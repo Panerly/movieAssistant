@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "045D03601BE45D50009D286F"
-               BuildableName = "HWMtime.app"
-               BlueprintName = "HWMtime"
+               BuildableName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;.app"
+               BlueprintName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;"
                ReferencedContainer = "container:HWMtime.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "045D03601BE45D50009D286F"
-            BuildableName = "HWMtime.app"
-            BlueprintName = "HWMtime"
+            BuildableName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;.app"
+            BlueprintName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;"
             ReferencedContainer = "container:HWMtime.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "045D03601BE45D50009D286F"
-            BuildableName = "HWMtime.app"
-            BlueprintName = "HWMtime"
+            BuildableName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;.app"
+            BlueprintName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;"
             ReferencedContainer = "container:HWMtime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "045D03601BE45D50009D286F"
-            BuildableName = "HWMtime.app"
-            BlueprintName = "HWMtime"
+            BuildableName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;.app"
+            BlueprintName = "&#x5f71;&#x89c6;&#x52a9;&#x624b;"
             ReferencedContainer = "container:HWMtime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
